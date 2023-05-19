@@ -1,0 +1,370 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    height:100%;
+    padding: 0%;
+    margin: 0%;
+}
+a {
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:yellow;
+}
+nav{
+    display:flex;
+    align-items: center;
+    width:100vw;
+    height:100px;
+    background-color:rgba(0, 0, 0, 0.942);
+    position: fixed;
+}
+container{
+    width:100vw;
+    height:100px;
+    display:flex;
+    justify-content:end;
+    align-items: center;
+}
+nav .word1{
+    color:white;
+    white-space:nowrap;
+}
+nav .word1 h1{
+    font-size: 40px;
+}
+nav .word2:hover{
+    transform: scale(1.2);    
+}
+nav .word2{
+    color:white;
+    margin-left:15px;
+    margin-right:15px;
+    white-space:nowrap;
+    transition: transform 1s;
+}
+nav .word3:hover{
+    transform: scale(1.2);    
+}
+nav .word3{
+    color:white;
+    margin-left:15px;
+    margin-right:15px;
+    white-space:nowrap;
+    transition: transform 1s;
+}
+nav .word4:hover{
+    transform: scale(1.2);    
+}
+nav .word4{
+    color:white;
+    margin-left:15px;
+    margin-right:100px;
+    white-space:nowrap;
+    transition: transform 1s;
+}
+.box1 h1{
+    font-size: 100px;
+}
+.box2{
+    margin-top: 65px;
+    height:300px;
+    width:100vw;
+    background-color:rgba(128, 128, 128, 0.414);
+    text-align:center;
+}
+.container2{
+    display:flex;
+    flex-direction: column;
+} 
+.p{
+    padding-top: 20px;
+}
+.imagebox{
+    height:500px;
+    width:100vw;
+}
+.box1{
+    background-image: url("r9da4ut9d1o816hvsmzkkl9bvw26.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    line-height: 500px;
+}
+.container3{
+    display:flex;
+    flex-direction: column;
+}
+.box3{
+    background-image: url("r9da4ut9d1o816hvsmzkkl9bvw26.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width:100vw;
+    height:500px;
+    text-align:center;
+    line-height: 400px;   
+}
+.box3  h1{
+    font-size:100px;
+}
+.content{
+    text-align: center;
+    
+}
+.content h1{
+    font-size: 50px;
+}
+.box4:hover{
+    transform: scale(1.2);
+  }
+.box4{
+    background-image: url("富士山河口湖_逆富士1-scaled.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    line-height: 500px;
+    transition: transform 1s;
+}
+.container4{
+    display:flex;
+    flex-direction: column;
+}
+.box5:hover{
+    transform: scale(1.2);
+  }
+.box5{
+    background-image: url("R (1).jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content1{
+    text-align: center;
+    
+}
+.content1 h1{
+    font-size: 50px;
+}
+.container5{
+    display:flex;
+    flex-direction: column;
+}
+.box6:hover{
+    transform: scale(1.2);
+  }
+.box6{
+    background-image: url("23883-Y5f4T5rG26afaxWhehhD_lrg_re.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content2{
+    text-align: center;
+    
+}
+.content2 h1{
+    font-size: 50px;
+}
+.container6{
+    display:flex;
+    flex-direction: column;
+}
+.box7:hover{
+    transform: scale(1.2);
+  }
+.box7{
+    background-image: url("https://cdn.jalan.jp/jalan/img/0/kuchikomi/0590/KXL/e7bfe_0000590172_1.JPG");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content3{
+    text-align: center;
+    
+}
+.content3 h1{
+    font-size: 50px;
+}
+.container7{
+    display:flex;
+    flex-direction: column;
+}
+.box8:hover{
+    transform: scale(1.2);
+  }
+.box8{
+    background-image: url("https://tabi-mag.jp/wp-content/uploads/YN008601.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content4{
+    text-align: center;
+    
+}
+.content4 h1{
+    font-size: 50px;
+}
+.container8{
+    display:flex;
+    flex-direction: column;
+}
+.imagebox1{
+    height:500px;
+    width:100vw;
+}
+.box9{
+    background-image: url("r9da4ut9d1o816hvsmzkkl9bvw26.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    line-height: 500px;
+}
+.box9 h1{
+    font-size: 100px;
+}
+.container9{
+    display:flex;
+    flex-direction: column;
+}
+.box10:hover{
+    transform: scale(1.2);
+  }
+.box10{
+    background-image: url("0f47e0f2f52342a4be3d8e97ad529738_01.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content5{
+    text-align: center;
+    
+}
+.content5 h1{
+    font-size: 50px;
+}
+.container10{
+    display:flex;
+    flex-direction: column;
+}
+.box11:hover{
+    transform: scale(1.2);
+  }
+.box11{
+    background-image: url("https://www.japaholic.com/storage/article/images/2018/01/6ae1aca2b3a273c2984f159bb622ab4c-700x468.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content6{
+    text-align: center;
+    
+}
+.content6 h1{
+    font-size: 50px;
+}
+.container11{
+    display:flex;
+    flex-direction: column;
+}
+.box12:hover{
+    transform: scale(1.2);
+  }
+.box12{
+    background-image: url("R (2).jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content7{
+    text-align: center;
+    
+}
+.content7 h1{
+    font-size: 50px;
+}
+.container12{
+    display:flex;
+    flex-direction: column;
+}
+.box13:hover{
+    transform: scale(1.2);
+  }
+.box13{
+    background-image: url("https://i.pinimg.com/originals/4a/20/c0/4a20c030c35342765813899e9423bdeb.jpg");
+    width:100vw;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    transition: transform 1s;
+}
+.content8{
+    text-align: center;
+    
+}
+.content8 h1{
+    font-size: 50px;
+}
+.container13{
+    display:flex;
+    flex-direction: column;
+}
+.box14{
+    background-color: rgb(3, 255, 255);
+    height:500px;
+    width:100vw;
+    text-align: center;
+    line-height: 300px;
+}
+.box14 h1{
+    font-size: 50px;
+}
+.word5{
+    text-align: center;
+    line-height: 50px;
+}
+.word5 h1{
+    font-size: 50px;
+}
